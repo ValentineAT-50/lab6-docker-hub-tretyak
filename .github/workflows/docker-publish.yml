@@ -36,5 +36,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: your-dockerhub-username/lab6-docker-hub-tretyak:latest
-          # ↑ заміни your-dockerhub-username на свій логін Docker Hub
+          tags: valentineat/lab6-docker-hub-tretyak:latest
+
